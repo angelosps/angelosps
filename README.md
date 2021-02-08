@@ -1,4 +1,4 @@
-### Hi there 👋. I am currently a CS undergraduate student @ University of Athens!
+### Hi there 👋. I am a sophomore CS student @ University of Athens!
 
 <!--
 **angelosps/angelosps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
