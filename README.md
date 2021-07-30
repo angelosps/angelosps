@@ -1,4 +1,4 @@
-### Hi there 👋. I am a sophomore CS student @ University of Athens!  
+### Hi there 👋. I am a junior (3<sup>rd</sup> year) CS student @ University of Athens!  
 
 :mailbox: You can reach me on [e-mail](mailto:solegnaps@gmail.com), or on [LinkedIn](https://www.linkedin.com/in/angelos-poulis-02b7351b0/).
 
