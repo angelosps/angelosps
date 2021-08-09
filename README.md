@@ -1,6 +1,6 @@
 # Hi I'm Angelos 👋
 
-📫 You can find me on my personal [website](https://angelosps.github.io), on [LinkedIn](https://www.linkedin/in/angelosps), or on [E-mail](mailto:solegnaps@gmail.com).
+📫 You can find me on my personal [website](https://angelosps.github.io), on [LinkedIn](www.linkedin.com/in/angelosps), or on [E-mail](mailto:solegnaps@gmail.com).
 
 
 <!--
