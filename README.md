@@ -1,4 +1,4 @@
-### Hey there 👋. I am Angelos. I am a senior Computer Science student at the University of Athens, Greece.
+### Hey there 👋. I'm Angelos. I'm a senior Computer Science student at the University of Athens, Greece.
 
 [![Website](https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=google-chrome&logoColor=white&color=teal)](https://angelosps.github.io) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solegnaps@gmail.com) &nbsp;&nbsp;
