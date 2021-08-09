@@ -1,4 +1,4 @@
-# Hi I'm Angelos 👋
+# Hi, I'm Angelos 👋
 
 📫 You can find me on my personal [website](https://angelosps.github.io), on [LinkedIn](https://www.linkedin.com/in/angelosps), or on [e-mail](mailto:solegnaps@gmail.com).
 
