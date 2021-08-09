@@ -1,8 +1,10 @@
-### Hey there 👋. I'm Angelos. I'm a senior Computer Science student at the University of Athens, Greece.
+# Hi I'm Angelos 👋
 
-[![Website](https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=google-chrome&logoColor=white&color=teal)](https://angelosps.github.io)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angelos-poulis-02b7351b0/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solegnaps@gmail.com) 
+Find me on the following links:
+
+[![Website Badge](https://img.shields.io/badge/-1ca0f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://angelosps.github.io)](https://angelosps.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelosps)](https://www.linkedin.com/in/angelosps)
+[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:solegnaps@gmail.com)](mailto:solegnaps@gmail.com)
 
 
 <!--
