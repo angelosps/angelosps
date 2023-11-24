@@ -1,7 +1,7 @@
 # Hi, I'm Angelos 👋
 
-📫 You can find me on <!-- my personal [website](https://angelosps.github.io), on -->[LinkedIn](https://www.linkedin.com/in/angelosps), or on [e-mail](mailto:solegnaps@gmail.com).
-
+- 📫 You can find me on my personal [website](https://angelosps.github.io). <!--, on [LinkedIn](https://www.linkedin.com/in/angelosps), or on [e-mail](mailto:solegnaps@gmail.com).-->   
+- 🔭 I am currently working on logical reasoning with LLMs, and fairness in ML algorithms.
 
 <!--
 Find me on the following links:
